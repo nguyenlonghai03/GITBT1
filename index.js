@@ -1,3 +1,5 @@
 console.log('master');
 
-console.log('devBranch');
+function dev() {
+    console.log('devBranch');
+}
