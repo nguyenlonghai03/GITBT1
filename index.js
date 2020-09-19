@@ -15,3 +15,6 @@ function CheckTask() {
 function testCompeleted() {
     console.log('testComplete');
 }
+function donTask() {
+    console.log('dontask');
+}
